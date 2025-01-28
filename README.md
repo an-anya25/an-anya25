@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
- - 🌱 I’m currently exploring the MERN stack
+ - 🌱 I’m a tech enthutiast
  - 📫 How to reach me: ananyababu25@gmail.com
 
 
